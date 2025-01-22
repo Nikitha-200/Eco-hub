@@ -1,0 +1,152 @@
+/* *{
+    margin:0px;
+    font-family: arial;
+    border: border-box;
+} */
+/* .boxes
+{
+    margin:30px;
+    margin-bottom:0px;
+    padding-bottom: 20px;
+    background-color: rgb(252, 252, 252);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.box
+{
+    border-radius: 20px;
+    height:410px;
+    width:300px;
+    background-color: white;
+    border:2px solid rgb(215, 211, 213);
+    margin-top: 20px;
+}
+.box-img
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 1rem;
+    margin-bottom: 0.7rem;
+    border-radius: 10px;
+}
+
+.box-img:hover
+{
+    transform: scale(1.07);
+}
+.box-img img
+{
+    height:300px;
+    width:270px;
+    background-size: cover;
+}
+
+.Part2-container
+{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.Part2-container h2{
+    margin-top:20px;
+    margin-bottom:0px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+} */
+
+/* .Part2_cater_button{
+    border:none;
+    font-size: 30px;
+}
+.Part2_cater{
+  height:80px;
+  box-sizing: border-box;
+  border-radius: 17px;
+  background-color: rgb(144, 196, 218);
+  padding:20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+} */
+
+
+/* .home1 img 
+{
+  border-radius: 20px;
+  height: 400px;
+  width: 320px;
+  margin-top: 50px;
+  transition: 400ms;
+}
+.home1 img:hover 
+{
+  transform: scale(1.03);
+}
+.home1 h6 
+{
+  font-size: 2rem;
+  margin-left: 60px;
+  margin-top: 0px;
+  font-weight: 500;
+}
+.div1 
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-bottom: 30px;
+} */
+
+.layout
+{
+    height:1000px;
+    width:94%;
+    margin-left: 45px;
+}
+.firstlayout
+{
+    height:50%;
+    width:100%;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.layoutone
+{
+    height:430px;
+    width:350px;
+    background-color: rgb(152, 210, 148);
+    border-radius: 10px;
+}
+.layoutinside
+{
+    height:360px;
+    overflow: hidden;
+}
+.layoutinside img
+{
+    height:360px;
+    width:350px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    transition: 600ms;
+    background-size: cover;
+}
+.layoutinside img:hover
+{
+    transform: scale(1.05);
+}
+.layoutone p{
+    margin-top: 15px;
+    font-size: 1.7rem;
+    font-weight: 800;
+    cursor:default;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: underline;
+    color:rgb(63, 15, 15);
+}

@@ -1,0 +1,207 @@
+/* *{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+}
+body{
+    font-family:'Outfit';
+    background:linear-gradient(#ffdad5,#fff7f9);
+}
+.contact-container{
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content:space-evenly ;
+}
+.contact-left{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 20px;
+}
+.contact-left-title h2{
+    font-weight: 600;
+    color: #a363aa;
+    font-size:40px;
+    margin-bottom: 5px;
+}
+.contact-left-title hr{
+    border:none;
+    width:120px;
+    height:5px;
+    background-color: #a363aa;
+    border-radius: 10px;
+    margin-bottom:20px;
+} */
+
+
+.con_con{
+    height:380px;
+    /* display: flex; */
+    /* flex-direction:column; */
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+    /* align-items: center; */
+    /* justify-content:space-evenly;   */
+    /* background-image:url(contactu.png);
+    background-size: cover; */
+}
+.con_con img
+{
+    height:400px;
+    width:85%;
+    border-radius: 40px;
+    margin:10px;
+    margin-top:30px;
+    margin-left: 110px;
+    /* margin-right:100px; */
+}
+/* .con_con h6{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    margin-right: 20px;
+}  */
+.con_det
+{
+    height:500px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    margin-bottom: 150px;
+    margin-top:70px;
+}
+
+.con_inf{
+    height:350px;
+    width:350px;
+    background-color: rgb(234, 239, 239);
+    border-radius: 20px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding-left:15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-self:center;
+}
+.con_inf h3{
+    padding-top: 30px;
+    padding-left: 10px;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.con_inf p{
+    padding-left: 10px;
+    margin-top: 5px;
+    /* margin-right:140px; */
+    font-size: 1.2rem;
+}
+.con_inf h2{
+    font-size: 2rem;
+    font-weight:690 ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 10px;
+    margin-top: 25px;
+}
+.con_bigbox
+{
+    height:500px;
+    width:700px;
+    margin-left: 30px;
+    background-color: rgb(255, 255, 255);
+}
+.con_bigbox h4{
+    font-size: 3rem;
+    padding-left: 150px;
+    padding-top: 0px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.con_bigbox p{
+    padding-left: 150px;
+}
+.con_name{
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.con_name input
+{
+    margin-right: 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    height:30px;
+}
+.con_mail{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.con_mail input{
+    margin-right: 20px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    width:532px;
+    height:30px;
+}
+.mail2 textarea
+{
+    height:100px;
+    width:532px;
+    text-align:start;
+    border:1.5px solid black;
+}
+.con_button{
+    margin-left: 150px;
+    margin-top: 40px;
+    font-size: 1rem;
+    background-color: rgb(39, 225, 80);
+    border: 1px solid transparent;
+    border-radius: 10px;
+    width:80px;
+    cursor: pointer;
+    height: 30px;
+}
+/* .popup{
+    width: 300px;
+    background: #6c6969;
+    border-radius: 6px;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-50%,-50%) scale(0.1);  
+    text-align:center;
+    padding: 0px 30px 30px; 
+    color: #333; 
+    visibility: hidden;
+    transition: transform 0.4s,top 0.4s;
+}
+.open-popup
+{
+    visibility: visible;
+    top:50%;
+    transform: translate(-50%,-50%) scale(1);
+}
+.popup img{
+    width: 100px;
+    margin-top: 50px;
+    border-radius: 50%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+.popup button{
+    width: 100%;
+    margin-top: 50px;
+    padding: 10px 0;
+    margin-left: 1px;
+    background: #6fd649;
+    color: #fff;
+    border: 0;
+    outline: none;
+    font-size: 18px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.2);
+} */
