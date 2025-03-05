@@ -19,7 +19,7 @@ app.use(express.json()); //with this express.json() what ever request we will ge
 app.use(cors()); //using this , the reactjs project will connect to express app on 4000
 
 // Database Connection with MongoDB
-mongoose.connect("mongodb+srv://praneetha:00170017@cluster0.e7v2ciq.mongodb.net/Eco_Products");
+mongoose.connect("");
 
 //API Creation
 app.get("/",(req,res)=>{
